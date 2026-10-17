@@ -1,0 +1,19 @@
+# Build output and downloaded toolchains
+/.deps/
+/build/
+/build-*/
+/dist/
+*.log
+build-log.txt
+build-status.txt
+setup-log.txt
+aqtinstall.log
+
+# Local development helpers
+/tools/rebuild-request.txt
+/tools/watch.ps1
+/Watch.cmd
+
+# Files from the former name (Luma Player)
+/res/luma.*
+/tools/luma-test.*
