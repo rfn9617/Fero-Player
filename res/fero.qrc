@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/">
+    <file>fero.svg</file>
+    <file>check-dark.svg</file>
+    <file>check-light.svg</file>
+    <file>check-on-accent.svg</file>
+  </qresource>
+</RCC>
